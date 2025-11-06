@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169637626661",
+    "project_id": "colegiocaracas-d8c08",
+    "storage_bucket": "colegiocaracas-d8c08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169637626661:android:eb46fb583a5d37ec6110cc",
+        "android_client_info": {
+          "package_name": "com.example.comnicomatincial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDam4mNEgNCBD-JpZZBD6FtUt8DCNIaXPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
